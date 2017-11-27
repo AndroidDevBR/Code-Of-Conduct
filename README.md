@@ -20,7 +20,7 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 ## Código de Conduta
 
-O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas independentemente de:
+Because this Slack group is representative of the community, admins reserve the right to deny admission or revoke membership based on CoC violating behavior outside of the Slack chat environment (e.g. in person, GitHub, social media), if necessary.O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas independentemente de:
 - Gênero, identidade de gênero ou expressão de gênero
 - Orientação sexual
 - Restrições físicas
@@ -80,6 +80,8 @@ Este grupo é voltado para profissionais que trabalhem com Android. Isso inclui 
 Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos ou empresas não serão permitidas.
 Dúvidas sobre ROMs, manutenção de aparelhos Android ou procedimentos que violem garantias e bom funcionamento dos mesmos também não são o foco deste grupo.
 É dever de todos os membros ativos acompanhar e reportar, sempre que possível, para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
+
+Dada a representatividade desta comunidade, os moderadores se reservam o direito de suspender ou banir do grupo membros que violem o presente Código de Conduta fora do Slack ou outros meios de comunicação da nossa comunidade, incluindo mas não se limitando a outros grupos do Slack, GitHub, redes sociais ou aplicativo de mensagens instantâneas.
 
 Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
