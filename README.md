@@ -3,6 +3,8 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
+[**_ENGLISH VERSION HERE_**](README-en.md)
+
 --
 
 * [Código de Conduta](#c%C3%B3digo-de-conduta)
@@ -79,14 +81,11 @@ Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 ## Como participar do grupo?
 
-Este grupo é voltado para profissionais que trabalhem com Android. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia com Android, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Android lusófonos ([falantes da língua portuguesa](https://pt.wikipedia.org/wiki/Lusofonia)) em torno de discussões e aprendizado coletivo. Por isso, quaisquer mensagens que se distanciem demais deste foco serão passíveis de exclusão ou banimento.
-Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos ou empresas não serão permitidas.
-Dúvidas sobre ROMs, manutenção de aparelhos Android ou procedimentos que violem garantias e bom funcionamento dos mesmos também não são o foco deste grupo.
-É dever de todos os membros ativos acompanhar e reportar, sempre que possível, para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
+This group is aimed at professionals working with Android. This includes developers and designers, and excludes journalists or HR recruiters / professionals. No prior experience with Android is required, but it is important to make it clear that the group's purpose is to bring together Portuguese-speaking Android developers around discussions and collective learning. Therefore, any message that distances too far from this focus will be subject to exclusion or banishment. Messages that are advertising only, whether advertisements for apps or companies, will not be allowed. Questions about ROMs, maintenance of Android devices or procedures that violate guarantees and proper functioning are also not the focus of this group. It is the duty of all active members to monitor and report, whenever possible, to any of the administrators any suspicious messages or that violate the group rules, as well as to point out possible improvements and adjustments to this Code of Conduct.
 
-Dada a representatividade desta comunidade, os moderadores se reservam o direito de suspender ou banir do grupo membros que violem o presente Código de Conduta fora do Slack ou outros meios de comunicação da nossa comunidade, incluindo mas não se limitando a outros grupos do Slack, GitHub, redes sociais ou aplicativo de mensagens instantâneas.
+Given the representativeness of this community, moderators reserve the right to suspend or ban members of this group from violating this Code of Conduct outside Slack or other communication media in our community, including, but not limited to, other Slack groups, GitHub , social networks or instant messaging application.
 
-Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
+In this way, if you are comfortable with participating in the group, access the link below and ask for your invitation:
 
 [http://slack.androiddevbr.org](http://slack.androiddevbr.org)
 

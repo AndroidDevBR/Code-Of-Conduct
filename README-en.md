@@ -42,19 +42,10 @@ We actively work towards:
 
 We condemn:
 
-  - Create profile by pretending to be someone else for entertainment purposes, fraud or encouraging code of conduct violations (i.e. impersonation).
+  - Create profile pretending to be someone else for entertainment purposes, fraud or encouraging code of conduct violations (i.e. impersonation).
   - Persecution, "doxxing" (investigating the life of a person without authorization) or undue publication of private information.
   - Threats of all kinds and harassment.
   - Any behavior that compromises the safety of other members.
-
-**These things are NOT OK.**
-
-If you say something that is considered offensive and somebody call you out on your comment, it is important to:
-
-  - Listen without interrupting.
-  - Believe in what the person is saying and do not try to disqualify what the person has to say.
-  - Ask for tips or help to avoid future offenses.
-  - Apologize and ask forgiveness.
 
 ### If you say something that is found offensive, and you are called out on it, let’s:
 
@@ -63,12 +54,13 @@ If you say something that is considered offensive and somebody call you out on y
 * Ask for tips / help with avoiding making the offense in the future.
 * Apologize and ask forgiveness.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be blocked permanently.
 
 Moderation reserves the right to verify the authenticity of users suspected of committing impersonation. Verification will be private between moderation and user.
 
 If you experience any type of abuse, harassment, discrimination, or if you feel unsafe, talk to an admin. This is the list of moderators and their Slack IDs:
 
+* **Ana Coimbra** - @anacoimbrag
 * **David Conceição** - @davidtiagoconceicao
 * **Douglas Drumond** - @douglasdrumond
 * **JP Ventura** - @jpventura
@@ -89,29 +81,7 @@ In this way, if you are comfortable with participating in the group, access the 
 
 [http://slack.androiddevbr.org](http://slack.androiddevbr.org)
 
-## Good manners
-* Stay on topic. The goal of the ASG Slack is to facilitate discussion of things relating to Android development. This could be about marketing, business, server-side programming, or other things that may be important to an Android developer. For off-topic topics go to #random
-* If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
-* Before asking any questions, please check if there's a channel for it before asking in #android-general
-* Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
-
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
-
-*The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
-
-## Member Nomination  
-
-To nominate someone to join the Android Study Group, log in the [ASG web page](https://asgweb.herokuapp.com/) with your Android Study Group slack account, go in the **Nominate** page, and fill in the form with your name, their name and info, and why you are nominating them. You'll need to have been a member of Android Study Group for 30 or more days to be able to nominate someone. 
-
-This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android (at least 1 year is ideal). Other helpful data points include the company where they work (if applicable), apps they have built, and their contributions to the Android community (via open source software, meetups, blog posts, etc). Membership is determined by a vote from the admins, who will then send out an invitation to the nominee.
-
-If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
-
-Because this Slack group is representative of the community, admins reserve the right to deny admission or revoke membership based on CoC violating behavior outside of the Slack chat environment (e.g. in person, GitHub, social media), if necessary.
-
 ## Good manners - Slack
-
-## Slack Commands
 
 ### Commands
 
@@ -123,11 +93,11 @@ If in doubt about using Slack or some specific command, look for an admin.
 
 Before asking a question, take the time and search Google as well as the Android documentation for your question. If after that the answer is not clear to you, please refer to the sources you consulted to answer your question. Sending your question to the most appropriate channel can also facilitate discussion and resolution.
 
-When asking and answering questions, avoid any imperative or impatient language, and be cordial, after all we are all here to help one another!
+When asking and answering questions, avoid any imperative or impatient language, and be cordial, after all we here are just trying to help each other.
 
 After posting your question, be sure to look for alternatives to solve your problem. Send new messages with updates and alternatives you've tried. If you can solve your problem on your own, spread the knowledge you have gained by describing the solution.
 
-In no situation repeat the same message several times. In addition to generating spam, the community will show much more interest in helping those who are trying to advance on their own.
+At any situation repeat the same message several times. In addition to generating spam, the community will show much more interest in helping those who are trying to advance on their own.
 
 Avoid messages without content, merely to agree to previous messages, loose words or excessively long messages without need. Use the options that Slack offers, such as the Reactions option. Also considered messages without content questions such as: Has anyone used the XYZ tool? or someone can help me ?. In case of doubts, problems or other situations, directly send your question or situation in the correct channel, avoiding to pollute the channels with messages without content. In addition to these cases, complaints without constructive purpose and for mere outburst are also messages without content. Remember that multiple channels have thousands of participating members, so value the channels and the space to exchange information avoiding messages without purpose.
 
@@ -139,16 +109,19 @@ Pay attention to your posts to keep communication enjoyable and interesting for 
 
 ### Individual responsibility
 
-All messages sent in Slack, through public or private means, are the sole responsibility of the author. Android Dev BR enhances the communication between developers from Brazil and the World, but is not responsible for published information or opinions. All members are free to submit information and opinions that they deem most appropriate, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Any measures around messages should be applied to the author of the message. AndroidDevBR is not responsible for sensitive information shared on channels or private messages. When sending snippets of code, be careful not to send credentials (endpoints, API keys, and the like). If any of this information is shared, immediately notify any administrator to have the message deleted.
+All messages sent in Slack, through public or private means, are the sole responsibility of the author. Android Dev BR enhances the communication between developers from Brazil and the World, but is not responsible for published information or opinions. All members are free to submit information and opinions that they deem most appropriate, given no Brazilian Law or Code of Conduct rule is violated. Any measures around messages should be applied to the author of the message. AndroidDevBR is not responsible for sensitive information shared on channels or private messages. When sending snippets of code, be careful not to send credentials (endpoints, API keys, and the like). If any of this information is shared, immediately notify any administrator to have the message deleted.
 
 ### Files and links
 Android Dev BR has no responsibility for links or files shared by its members. Each member must carefully observe the quality and content of any link or file before sharing it. It is also the responsibility of each member to verify the ownership application on shared files or download links.
 
 The admins will not tolerate the disclosure of files or links that:
 
-  - Violate private properties,
-  - Contain malware of any kind, including but not limited to viruses, phishing and scams,
-  - Point to content that violates this Code of Conduct. Any messages that violate the above points will be deleted by the Admins without prior notice, causing possible penalties for the member that sent the message.
+  - Violate private properties.
+  - Contain malware of any kind, including but not limited to viruses, phishing and scams.
+  - Point to content that violates this Code of Conduct.
+
+  Any messages that violate the points above will be deleted by the administrators without prior notice, causing possible penalties for the member that sent the message.
+
 
 ### Channels
 
