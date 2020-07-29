@@ -70,6 +70,7 @@ A moderação se reserva o direito de verificar a autenticidade de usuários sus
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin.
 Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
+* **Ana Coimbra** - @@anacoimbrag 
 * **David Conceição** - @davidtiagoconceicao
 * **Douglas Drumond** - @douglasdrumond
 * **JP Ventura** - @jpventura
