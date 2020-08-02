@@ -7,18 +7,18 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 --
 
-* [Código de Conduta](#c%C3%B3digo-de-conduta)
-* [Como participar do grupo?](#como-participar-do-grupo)
-* [Regras de etiqueta - Slack](#regras-de-etiqueta---slack)
-  * [Comandos](#comandos)
-  * [Dúvidas](#dúvidas)
-  * [Seja gentil](#seja-gentil)
-  * [Responsabilidade individual](#responsabilidade-individual)
-  * [Arquivos e links](#arquivos-e-links)
-  * [Canais](#canais)
-  * [Bots e integrações](#bots-e-integrações)
-  * [Conhecendo o Slack](#conhecendo-o-slack)
-  * [Sugestões e melhorias](#sugestões-e-melhorias)
+- [Código de Conduta](#código-de-conduta)
+- [Como participar do grupo?](#como-participar-do-grupo)
+- [Regras de etiqueta - Slack](#regras-de-etiqueta---slack)
+  - [Comandos](#comandos)
+  - [Dúvidas](#dúvidas)
+  - [Seja gentil](#seja-gentil)
+  - [Responsabilidade individual](#responsabilidade-individual)
+  - [Arquivos e links](#arquivos-e-links)
+  - [Canais](#canais)
+  - [Bots e integrações](#bots-e-integrações)
+  - [Conhecendo o Slack](#conhecendo-o-slack)
+- [Sugestões e melhorias](#sugestões-e-melhorias)
 
 ## Código de Conduta
 
@@ -82,11 +82,11 @@ Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 ## Como participar do grupo?
 
-This group is aimed at professionals working with Android. This includes developers and designers, and excludes journalists or HR recruiters / professionals. No prior experience with Android is required, but it is important to make it clear that the group's purpose is to bring together Portuguese-speaking Android developers around discussions and collective learning. Therefore, any message that distances too far from this focus will be subject to exclusion or banishment. Messages that are advertising only, whether advertisements for apps or companies, will not be allowed. Questions about ROMs, maintenance of Android devices or procedures that violate guarantees and proper functioning are also not the focus of this group. It is the duty of all active members to monitor and report, whenever possible, to any of the administrators any suspicious messages or that violate the group rules, as well as to point out possible improvements and adjustments to this Code of Conduct.
+Este grupo é voltado para profissionais que trabalham com Android. Isto inclui desenvolvedores e designers, e exclui jornalistas, recrutadores e profissionais de RH. Não é necessária nenhuma experiência com Android, mas é importante deixar claro que o propósito do grupo é aproximar desenvolvedores android que falam português e promover discussões e aprendizado coletivo. Por isso, qualquer mensagem que se saia completamente deste foco estará passiva de exclusão ou banimento em casos mais extremos. Mensagens que são puramente propaganda, seja anúncios de aplicativos ou empresas não serão permitidos. Questões sobre ROMs, manutenção de celular android ou procedimentos que violam a garantia a o pleno funcionamento do dispositivo também não são o foco do grupo. É um dever e um direito de todos os membros ativos de monitorar e reportar, sempre quando possível, a algum administrador qualquer mensagem suspeita ou que viole as regras do grupo, assim como pontuar qualquer melhoria ou ajustes neste código de conduta.
 
-Given the representativeness of this community, moderators reserve the right to suspend or ban members of this group from violating this Code of Conduct outside Slack or other communication media in our community, including, but not limited to, other Slack groups, GitHub , social networks or instant messaging application.
+Dada a representatividade desta comunidade, os moderadores reservam-se no direito de suspender ou banir membros do grupo por violação deste código de conduta no Slack ou outro meio de comunidação da nossa comunidade, incluindo, mas não limitado a, outros grupos do Slack, GitHub, redes sociais e aplicativos de mensagens instantâneas.
 
-In this way, if you are comfortable with participating in the group, access the link below and ask for your invitation:
+Deste modo, se você está confortável participando deste grupo, acesse o link abaixo para receber o convite:
 
 [http://slack.androiddevbr.org](http://slack.androiddevbr.org)
 
