@@ -9,7 +9,6 @@
   * [Individual responsibility](#individual-responsibility)
   * [Files and links](#files-and-links)
   * [Channels](#channels)
-  * [Bots and plugins](#bots-and-plugins)
   * [Get started with Slack](#get-started-with-slack)
   * [Suggestions and improvements](#suggestions-and-improvements)
 
@@ -126,14 +125,6 @@ The admins will not tolerate the disclosure of files or links that:
 ### Channels
 
 Slack allows any member to create new channels. Android Dev BR has multiple channels for general or specific discussions. The goal of having multiple channels is to allow members with an interest in a particular subject to talk in a more focused manner, as well as allowing several conversations to occur in parallel. Before creating a channel though, check to see if there is interest from other members in joining the channel, if there is no equivalent channel, and if the channel focus is in line with the larger purpose of Android Dev BR and this Code of Conduct . The Admins team reserves the right to close and archive duplicate or inactive channels for long periods. Placements ending in -alerts (#job-alerts, #channel-alerts) are for automated messages or the moderation team. So do not post messages on these channels. Any other messages sent in these channels will be deleted by the moderation team without previous notice.
-
-### Bots and plugins
-
-The Admins team reserves the right to control the configuration of bots and integrations, not allowing other members to activate new configurations of bots or integrations. This way, we protect the group from creating malicious integrations or for purposes that differ from Android Dev BR.
-
-Our main Slack plugins are:
-
-  - [Paperbot](http://paperbot.ai/) Monitors the links sent to generate a web portal and daily summary emails. In this way, all the links sent by our members in the public channels can be checked in a [centralized portal](http://web.paperbot.ai). Just log in with your slack user to get access to the list of links.
 
 ### Get started with Slack
 
