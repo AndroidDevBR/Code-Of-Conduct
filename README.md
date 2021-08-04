@@ -16,7 +16,6 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
   - [Responsabilidade individual](#responsabilidade-individual)
   - [Arquivos e links](#arquivos-e-links)
   - [Canais](#canais)
-  - [Bots e integrações](#bots-e-integrações)
   - [Conhecendo o Slack](#conhecendo-o-slack)
 - [Sugestões e melhorias](#sugestões-e-melhorias)
 
@@ -135,13 +134,6 @@ Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem
 
 O Slack permite que qualquer membro crie novos canais. O Android Dev BR possui vários canais para discussões gerais ou específicas. O objetivo de ter diversos canais é permitir que membros com interesse em determinado assunto possam conversar de maneira mais focada, além de permitir que diversas conversas ocorram em paralelo. Antes de criar um canal, porém, verifique se há interesse de outros membros em participar do canal, se não existe um canal equivalente e se o foco do canal está de acordo com o propósito maior do Android Dev BR e com o presente Código de Conduta. A equipe de Admins se reserva o direito de fechar e arquivar canais em duplicidade ou inativos por longos períodos.
 Os canais terminados em **-alerts** (#job-alerts, #channel-alerts) são para mensagens automáticas ou da equipe de moderação. Portanto, não poste mensagens nestes canais. Quaisquer outras mensagens enviadas nestes canais serão apagadas pela equipe de moderação sem prévio aviso.
-
-### Bots e integrações
-
-A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Android Dev BR.
-
-Principais estão integrados ao nosso Slack:
-* [Paperbot](http://paperbot.ai/): Monitora os links enviados para a geração de um portal web e e-mails de resumo diário. Desta forma, todos os links enviados por nossos membros nos canais públicos podem ser conferidos em [um portal centralizado](http://web.paperbot.ai). Basta logar com seu usuário do slack para ter acesso à lista de links.
 
 ### Conhecendo o Slack
 É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/). É fundamental também que todos usuários saibam como tirar o melhor proveito das threads oferecidas pelo slack. Saiba mais como usar as threads no [post oficial do Slack](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd#.t5o624v3u).
